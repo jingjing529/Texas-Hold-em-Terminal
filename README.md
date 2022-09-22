@@ -16,11 +16,11 @@ Python Texas-Hold-em-Terminal.py -u -p number_of_bot_player
 * There is no bot player left. (All bot players quit the game)
 * You don't have enough money to player another round. (The game ends automatically.)
 
-##Running tests
+## Running tests
 If you want to check the correctness of this game, you can use file mode to run the test cases using the following command. 
 Python Texas-Hold-em-Terminal.py -f -i path_to_cases_directory
 The output should be the number of tests passed.  
 Note: path_to_cases_directory should contain a folder with all the test cases and a text_result.txt file.
 
-##Contact
+## Contact
 If you want to contact me you can reach me at jingjw23@uci.edu
